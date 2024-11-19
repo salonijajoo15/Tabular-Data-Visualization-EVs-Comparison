@@ -32,7 +32,7 @@ The dataset includes key attributes of EV models such as:
 - Price
 - Other relevant specifications
 
-## PREREQUISITES
+## Prerequesites
 
 Python 3.11 or higher
 
@@ -75,6 +75,4 @@ This project utilizes APIs to accomplish specific tasks for real-time and accura
 - **Example API Call**:
   ```bash
   python p1_splom.py -i evs_assignment1.xlsx -a Range Acceleration Efficiency Price
-
-
 
