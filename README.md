@@ -32,7 +32,7 @@ The dataset includes key attributes of EV models such as:
 - Price
 - Other relevant specifications
 
-## Prerequesites
+## Prerequisites
 
 Python 3.11 or higher
 
